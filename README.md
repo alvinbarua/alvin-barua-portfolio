@@ -51,8 +51,7 @@ To view or test the portfolio locally:
 ---
 
 ## 📡 Live Demo
-
-> Coming soon via GitHub Pages:  
+  
 > [https://alvinbarua.github.io/alvin-barua-portfolio/](https://alvinbarua.github.io/alvin-barua-portfolio/)
 
 ---
